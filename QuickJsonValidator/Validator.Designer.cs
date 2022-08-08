@@ -1,4 +1,4 @@
-﻿namespace LargeJsonValidator {
+﻿namespace QuickJsonValidator {
     partial class Validator {
         /// <summary>
         /// Required designer variable.
